@@ -19,7 +19,7 @@
 
 -------
 ### Video
-[![video](https://i.postimg.cc/QCdr6zT1/DDo-S-shutterstock-1537667693-700.jpg)](https://youtu.be/hPvmXMICrWk)
+[![video](https://i.postimg.cc/QCdr6zT1/DDo-S-shutterstock-1537667693-700.jpg)](https://youtu.be/NEZA7OxMBzs)
 
 -------
 
