@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.966,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Home\Desktop\СерверКлиент\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.458,=C:\Users\Home\Desktop\BOTNET\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.744,C:\Users\Home\Desktop\BOTNET\Unit3.pas=C:\Users\Home\Desktop\BOTNET\Panel.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.933,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Home\Desktop\СерверКлиент\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.832,=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.744,C:\Users\Home\Desktop\BOTNET\Unit3.dfm=C:\Users\Home\Desktop\BOTNET\Panel.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.429,C:\Users\Home\Desktop\СерверКлиент\Project1.dproj=C:\Users\Home\Desktop\СерверКлиент\Server.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.740,C:\Users\Home\Desktop\BOTNET\Unit4.pas=C:\Users\Home\Desktop\BOTNET\Builder.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.239,=C:\Users\Home\Desktop\BOTNET\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.740,C:\Users\Home\Desktop\BOTNET\Unit4.dfm=C:\Users\Home\Desktop\BOTNET\Builder.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,C:\Users\Home\Desktop\Delphi Сервер Клиент pass 12345\TCPServer.pas=C:\Users\Home\Desktop\Delphi Сервер Клиент pass 12345\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,C:\Users\Home\Desktop\Delphi Сервер Клиент pass 12345\TCPServer.dfm=C:\Users\Home\Desktop\Delphi Сервер Клиент pass 12345\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.933,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Home\Desktop\СерверКлиент\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

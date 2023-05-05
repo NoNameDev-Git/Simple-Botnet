@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.774,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Client.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.487,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Home\Desktop\СерверКлиент\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Client.dproj=C:\Users\Home\Desktop\СерверКлиент\Client.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.487,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Home\Desktop\СерверКлиент\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.967,C:\Users\Home\Desktop\Delphi Сервер Клиент pass 12345\TCPClient.dfm=C:\Users\Home\Desktop\Delphi Сервер Клиент pass 12345\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.967,C:\Users\Home\Desktop\Delphi Сервер Клиент pass 12345\TCPClient.pas=C:\Users\Home\Desktop\Delphi Сервер Клиент pass 12345\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
